@@ -1,0 +1,68 @@
+[
+    {
+        "id":1,
+        "name":"Harry Potter Y La Piedra Filosofal",
+        "author":"JK Rowling",
+        "price": 150.000,
+        "img": "https://covers.odilo.io/public/OdiloPlace_Pottermore/9781781101315_ORIGINAL.jpg",
+        "quanty": 1
+    },
+    {
+        "id":2,
+        "name":"Harry Potter y La Camara De Los Secretos",
+        "author":"JK Rowling",
+        "price": 160.000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy5LkQ6EvE33ZIdSMc_yQAmeY1NWjRfGeNEw&usqp=CAU",
+        "quanty": 1
+    },
+    {
+        "id":3,
+        "name":"Harry Potter Y El Pricionero De Azkaban",
+        "author":"JK Rowling",
+        "price": 170.000,
+        "img": "https://images.cdn1.buscalibre.com/fit-in/360x360/1a/31/1a3145c3ba83287fabdb65514b893cf6.jpg",
+        "quanty": 1
+    },
+    {
+        "id":4,
+        "name":"Harry Potter Y El Cáliz De Fuego",
+        "author":"JK Rowling",
+        "price": 180.000,
+        "img": "https://images.cdn1.buscalibre.com/fit-in/360x360/b9/ad/b9ad65b059dd5acc7ec5e7467b1343b9.jpg",
+        "quanty": 1
+    },
+    {
+        "id":5,
+        "name":"Harry Potter Y La Orden Del Fénix",
+        "author":"JK Rowling",
+        "price": 190.000,
+        "img": "https://www.presenca.pt/cdn/shop/products/image-1_dd1ad775-055d-4cc3-9af0-45e8ee947c8a_1024x1024.jpg?v=1607090351",
+        "quanty": 1
+    },
+    {
+        "id":6,
+        "name":"Harry Potter Y El Misterio Del Príncipe",
+        "author":"JK Rowling",
+        "price": 200.000,
+        "img": "https://img1.od-cdn.com/ImageType-400/3450-1/%7B39CBDA0B-F15C-40E1-A169-A45AE395C3BF%7DIMG400.JPG",
+        "quanty": 1
+    },
+
+    {
+        "id":7,
+        "name":"Harry Potter y las Reliquias de la Muerte I",
+        "author":"JK Rowling",
+        "price": 210.000,
+        "img": "https://m.media-amazon.com/images/I/514rkihbkoL.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id":8,
+        "name":"Harry Potter y las Reliquias de la Muerte II",
+        "author":"JK Rowling",
+        "price": 230.000,
+        "img": "https://www.nuevamujer.com/resizer/-r95St2c3qif3fXrZ2W_rMCYb0w=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/LCTK76F2ZFE2BNXYIK6JEW6D2I.jpg",
+        "quanty": 1
+    }
+]
